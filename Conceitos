@@ -1,0 +1,25 @@
+Um objeto é uma instância de uma classe. Ou seja, uma representação da classe. 
+Por exemplo, usuario1 é uma instância de uma classe chamada Pessoa
+
+Classe = define um tipo de dado com orientação a objetos
+ Atributos = Aparência
+ Metódos = Comportamento/Ações
+ 
+Encapsulamento = "Esconder" pra ninguém visualizar ou alterar
+
+Static Method = Não depende de uma instância, usamos para menter métodos não associados com um objeto específico
+
+Static Class = Uma classe estática pode ser usada como um contêiner para conjuntos de métodos que operam apenas em parâmetros 
+de entrada e não precisam obter ou definir campos de instância internos. 
+- Contém apenas membros estáticos.
+- Não pode ser instanciada.
+- É lacrada.
+- Não pode conter Construtores de instância
+
+Herança = Utilizado para determinar uma classe (filha) que pode herdar atributos e métodos de uma outra classe (pai), evita repetição no código
+
+Polimorfismo = Permite usar o mesmo elemento e gerar formas e comportamentos diferentes. São subclasses com os métodos com os mesmos nomes da superclasse e o programa
+saber qual será usada (super ou sub)
+
+Get = Pegar o valor de um atributo
+Set = Alterar o valor de um produto
